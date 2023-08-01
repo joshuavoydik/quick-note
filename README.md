@@ -1,6 +1,6 @@
 # quick-note
 
-Welcome! This is a quick note taking app I build using AI tools. 
+Welcome! This is a quick note taking app I built using AI tools. 
 
 Feel free to clone the repo and start building on it yourself. 
 
